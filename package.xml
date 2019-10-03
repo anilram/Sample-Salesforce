@@ -2,7 +2,18 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>45.0</version>
     <types>
+        <members>RemoteSiteHelperController</members>
+        <members>RemoteSiteHelperTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>remotesitehelper</members>
         <name>ApexComponent</name>
+    </types>
+    <types>
+        <members>ApexDevNet</members>
+        <members>OFSServer__Login</members>
+        <members>OFSServer__Test</members>
+        <name>RemoteSiteSetting</name>
     </types>
 </Package>
