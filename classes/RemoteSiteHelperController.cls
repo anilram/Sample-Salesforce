@@ -28,7 +28,7 @@ global class RemoteSiteHelperController {
 	public PageReference displayMetadataResponse()
 	{
 		// Display the response from the client side Metadata API callout
-		if(metadataResponse.length()==0)to fail thec ommit
+		if(metadataResponse.length()==0)
 		{
 			String infoString = String.format('Remote Site Setting {0} has been created.',new String[]{rssNameString});
 			ApexPages.addMessage(new ApexPages.Message(ApexPages.Severity.Info, infoString));
