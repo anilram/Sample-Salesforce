@@ -8,6 +8,9 @@
     </types>
     <types>
         <members>remotesitehelper</members>
+        <members>skuid__contentHeader</members>
+        <members>skuid__page</members>
+        <members>skuid__scripts</members>
         <name>ApexComponent</name>
     </types>
     <types>
