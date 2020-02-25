@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>46.0</version>
     <types>
+        <members>B0</members>
         <members>Backify__BackupController</members>
         <members>RemoteSiteHelperController</members>
         <members>RemoteSiteHelperTest</members>
